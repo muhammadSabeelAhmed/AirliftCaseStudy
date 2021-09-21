@@ -12,6 +12,9 @@ Minimum API 21
 
 Dependency Injection
 
+##M Modules Overview
 data Module Contains Database, Network calls, Data Model Classes & Repository
+
 ui Module Contains ViewModel, Activities, Fragments & Adpater
+
 Util Module Contains Coroutines, Exceptions Handling, ViewUtils & DataUtils
