@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Crypto Inn</string>
+    <string name="product_title">Product Title</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_conversion">Easy way ot convert crypto currencies</string>
+    <string name="amount">Enter Amount</string>
+</resources>
